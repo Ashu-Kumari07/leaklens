@@ -1,0 +1,23 @@
+transaction_id,transaction_date,vendor_name,amount,currency,invoice_number,payment_reference,payment_status,recurrence,plan_name
+TX-17,2026-09-02,Example Supplies,5000,INR,INV-101,PAY-551,completed,one_time,
+TX-29,2026-09-04,Example Supplies,5000,INR,INV-101,PAY-614,completed,one_time,
+TX-30,2026-09-05,Example Supplies,5000,INR,INV-102,PAY-615,completed,one_time,
+TX-31,2026-09-07,Demo Cloud,12000,INR,CLOUD-SEP,PAY-700,completed,monthly,Starter
+TX-32,2026-10-07,Demo Cloud,14500,INR,CLOUD-OCT,PAY-760,completed,monthly,Starter
+TX-33,2026-09-09,North Paper,800,INR,PAPER-1,PAY-800,completed,one_time,
+TX-34,2026-09-10,North Paper,800,INR,PAPER-2,PAY-801,completed,one_time,
+TX-35,2026-09-12,Example Hosting,2500,INR,HOST-1,PAY-810,reversed,monthly,Basic
+TX-36,2026-09-13,Example Hosting,2500,INR,HOST-1,PAY-811,completed,monthly,Basic
+TX-37,2026-09-15,Example Design,40,USD,DES-1,PAY-820,completed,monthly,Team
+TX-38,2026-09-16,Sample Logistics,1600,INR,LOG-1,PAY-830,pending,one_time,
+TX-39,2026-09-17,Example Telecom,900,INR,TEL-1,PAY-840,failed,monthly,Office
+TX-40,2026-09-18,Example Supplies,3000,INR,INV-103,PAY-850,completed,one_time,
+TX-41,2026-09-19,Sample Legal,4500,INR,LEG-1,PAY-860,completed,one_time,
+TX-42,2026-09-20,Example Travel,2200,INR,TRV-1,PAY-870,completed,one_time,
+TX-43,2026-09-21,Sample Cafe,600,INR,CAF-1,PAY-880,completed,one_time,
+TX-44,2026-09-22,Example Office,1100,INR,OFF-1,PAY-890,completed,one_time,
+TX-45,2026-09-23,Demo Training,2000,INR,TRN-1,PAY-900,completed,one_time,
+TX-46,2026-09-24,Sample Equipment,6500,INR,EQU-1,PAY-910,completed,one_time,
+TX-47,2026-09-25,Example Cleaning,1300,INR,CLN-1,PAY-920,completed,one_time,
+TX-48,2026-09-26,,700,INR,BAD-1,PAY-930,completed,one_time,
+TX-49,2026-09-27,Example Invalid,not_a_number,INR,BAD-2,PAY-940,completed,one_time,
