@@ -2,6 +2,8 @@
 
 Built by **LeakLogic**.
 
+🚀 Live Demo: https://leaklens-livid.vercel.app/
+
 LeakLens helps finance and operations teams find possible cost leaks, inspect the supporting records, and track what happened after a human review. A flag is a lead to investigate—not proof of fraud, waste or money saved.
 
 ## The problem
